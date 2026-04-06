@@ -53,6 +53,8 @@ def make_post(
 
 {product_comment}
 
+夫婦★評価は続きで👇
+
 私👩{stars_post(wife_rating)}
 {wife_comment}
 
